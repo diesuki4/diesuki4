@@ -23,8 +23,9 @@
 - [ ] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
 
 ### Lectures seen :desktop_computer:
-- [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
-- [Youtube] [[게임 해킹과 보안 입문] 치트엔진 튜토리얼!](https://www.youtube.com/watch?v=tHhkOFjC56A&list=PLnIaYcDMsScxxgCKjx524O4UxV85ZbAuK&index=1) by 재즐보프
+- [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
+- [x] [Youtube] [[게임 해킹과 보안 입문] 치트엔진 튜토리얼!](https://www.youtube.com/watch?v=tHhkOFjC56A&list=PLnIaYcDMsScxxgCKjx524O4UxV85ZbAuK&index=1) by 재즐보프
+- [ ] [Youtube] [Cheat Engine Tutorials](https://www.youtube.com/watch?v=XJpNn2GyrNc&list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr&index=1) by Stephen Chapman
 
 ----
 
