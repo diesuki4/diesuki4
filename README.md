@@ -19,8 +19,8 @@
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
-- [ ] [32비트 80x86 어셈블리 언어 프로그래밍](http://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696&ejkGb=KOR) by 양희재
-- [ ] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
+- [ ] [퍼플] [32비트 80x86 어셈블리 언어 프로그래밍](http://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696&ejkGb=KOR) by 양희재
+- [ ] [프리렉] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
 
 ### Lectures seen :desktop_computer:
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
