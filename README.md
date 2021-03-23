@@ -14,8 +14,8 @@
 - Hacking Competitions
 
 ### Currently working on :octocat:
-- Learning Reverse Engineering
-- Learning Game Hacking techniques and concepts
+- Learning advanced x86 Assembly
+- Learning how to deal with Cheat Engine
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
