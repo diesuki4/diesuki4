@@ -14,7 +14,7 @@
 - Hacking Competitions
 
 ### Currently working on :octocat:
-- Learning advanced x86 Assembly
+- Learning x86 Assembly
 - Learning how to deal with Cheat Engine
 
 ### Books read :books:
