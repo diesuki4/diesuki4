@@ -11,7 +11,7 @@
 - Reverse Engineering
 - System Hacking
 - Game Hacking
-- Hacking Competitions
+- CTF Competitions
 
 ### Currently working on :octocat:
 - Learning Reverse Engineering basics
