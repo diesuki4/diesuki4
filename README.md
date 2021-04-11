@@ -26,7 +26,7 @@
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
 - [x] [Youtube] [[게임 해킹과 보안 입문] 치트엔진 튜토리얼!](https://www.youtube.com/watch?v=tHhkOFjC56A&list=PLnIaYcDMsScxxgCKjx524O4UxV85ZbAuK&index=1) by 재즐보프
 - [x] [Youtube] [Cheat Engine Tutorials](https://www.youtube.com/watch?v=XJpNn2GyrNc&list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr&index=1) by Stephen Chapman
-- [ ] [Youtube] [Win32API](https://www.youtube.com/watch?v=RHvS7oMXloU&list=PL1IheunyylbY6-tq6t-l5nyX9BZQnJMwk&index=1) by 스무디 TV
+- [ ] [Youtube] [[게임 해킹과 보안]FPS 오픈소스 게임핵 개발과 시큐어 코딩 - 1편 게임 맛보기](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
 
 ----
 
