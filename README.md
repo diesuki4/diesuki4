@@ -26,7 +26,9 @@
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
 - [x] [Youtube] [[게임 해킹과 보안 입문] 치트엔진 튜토리얼!](https://www.youtube.com/watch?v=tHhkOFjC56A&list=PLnIaYcDMsScxxgCKjx524O4UxV85ZbAuK&index=1) by 재즐보프
 - [x] [Youtube] [Cheat Engine Tutorials](https://www.youtube.com/watch?v=XJpNn2GyrNc&list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr&index=1) by Stephen Chapman
-- [ ] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
+- [x] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
+- [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450/) by Rake
+- [ ] [Guided Hacking] [GHB1 - Start Here Beginner Guide to Game Hacking](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/) by Rake
 
 ----
 
