@@ -15,7 +15,7 @@
 
 ### Currently working on :octocat:
 - Learning Reverse Engineering basics
-- Learning how to deal with Cheat Engine
+- Learning Game Hacking basics using C++
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
