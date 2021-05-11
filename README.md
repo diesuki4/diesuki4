@@ -20,7 +20,7 @@
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
 - [x] [32비트 80x86 어셈블리 언어 프로그래밍](http://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696&ejkGb=KOR) by 양희재
-- [ ] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
+- [x] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
 
 ### Lectures seen :desktop_computer:
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
@@ -29,7 +29,7 @@
 - [x] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
 - [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450) by Rake
 - [ ] [Guided Hacking] [GHB1 - Start Here Beginner Guide to Game Hacking](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911) by Rake
-
+- [ ] [윈도우 리버싱 (window reversing) 완벽 이해 - 레나 챌린지 풀이](https://www.inflearn.com/course/lena-2#) by 보안프로젝트
 ----
 
 ### Contacts :email:
