@@ -30,6 +30,9 @@
 - [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450) by Rake
 - [ ] [Guided Hacking] [GHB1 - Start Here Beginner Guide to Game Hacking](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911) by Rake
 - [ ] [인프런] [윈도우 리버싱 (window reversing) 완벽 이해 - 레나 챌린지 풀이](https://www.inflearn.com/course/lena-2#) by 보안프로젝트
+
+### Seminars attended :man_teacher:
+- [x] [제 2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
 ----
 
 ### Contacts :email:
