@@ -14,8 +14,7 @@
 - CTF Competitions
 
 ### Currently working on :octocat:
-- Learning Reverse Engineering basics
-- Learning Game Hacking basics using C++
+- Learning Pwnable basics
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
@@ -28,8 +27,7 @@
 - [x] [Youtube] [Cheat Engine Tutorials](https://www.youtube.com/watch?v=XJpNn2GyrNc&list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr&index=1) by Stephen Chapman
 - [x] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
 - [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450) by Rake
-- [ ] [Guided Hacking] [GHB1 - Start Here Beginner Guide to Game Hacking](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911) by Rake
-- [ ] [인프런] [윈도우 리버싱 (window reversing) 완벽 이해 - 레나 챌린지 풀이](https://www.inflearn.com/course/lena-2#) by 보안프로젝트
+- [ ] [Dreamhack] [System Exploitation Fundamental](https://dreamhack.io/lecture/curriculums/2) by Theori
 
 ### Seminars attended :man_teacher:
 - [x] [제 2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
