@@ -16,7 +16,7 @@
 ### Currently working on :octocat:
 - Learning Pwnable basics
 
-### Courses completed :man_teacher:
+### Courses completed :man_technologist:
 - [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
 
 ### Books read :books:
