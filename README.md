@@ -16,6 +16,9 @@
 ### Currently working on :octocat:
 - Learning Pwnable basics
 
+### Courses completed :man_teacher:
+- [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
+
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
 - [x] [32비트 80x86 어셈블리 언어 프로그래밍](http://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696&ejkGb=KOR) by 양희재
