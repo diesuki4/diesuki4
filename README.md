@@ -17,8 +17,8 @@
 - Learning Pwnable basics
 
 ### CTF :pirate_flag:
-- [x] [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) 7위 by Theori
-- [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) ??위 by POC SECURITY
+- [x] [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) **7th** by Theori
+- [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) **??th** by POC SECURITY
 
 ### Courses completed :man_technologist:
 - [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
