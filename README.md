@@ -16,6 +16,10 @@
 ### Currently working on :octocat:
 - Learning Pwnable basics
 
+### CTF :pirate_flag:
+- [x] [7 / 79] in [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) by Theori
+- [x] [? / ??] in [제23회 해킹캠프 CTF](http://hackingcamp.org) by POC SECURITY
+
 ### Courses completed :man_technologist:
 - [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
 
@@ -33,7 +37,8 @@
 - [ ] [Dreamhack] [System Exploitation Fundamental](https://dreamhack.io/lecture/curriculums/2) by Theori
 
 ### Seminars attended :man_teacher:
-- [x] [제 2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
+- [x] [제2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
+- [ ] [제23회 하계 해킹캠프](http://hackingcamp.org) by POC SECURITY
 ----
 
 ### Contacts :email:
