@@ -18,7 +18,7 @@
 
 ### CTF :pirate_flag:
 - [x] [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) by Theori **7th**
-- [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) by POC SECURITY **??th**
+- [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) by POC SECURITY **3rd** (Team. 구경만할게요)
 
 ### Courses completed :man_technologist:
 - [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
@@ -34,7 +34,8 @@
 - [x] [Youtube] [Cheat Engine Tutorials](https://www.youtube.com/watch?v=XJpNn2GyrNc&list=PLNffuWEygffbbT9Vz-Y1NXQxv2m6mrmHr&index=1) by Stephen Chapman
 - [x] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
 - [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450) by Rake
-- [ ] [Dreamhack] [System Exploitation Fundamental](https://dreamhack.io/lecture/curriculums/2) by Theori
+- [x] [Dreamhack] [System Exploitation Fundamental](https://dreamhack.io/lecture/curriculums/2) by Theori
+- [ ] [Inflearn] [윈도우 리버싱 (window reversing) 완벽 이해 - 레나 챌린지 풀이](https://www.inflearn.com/course/lena-2) by 보안프로젝트
 
 ### Seminars attended :man_teacher:
 - [x] [제2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
