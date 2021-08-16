@@ -14,7 +14,7 @@
 - CTF Competitions
 
 ### Currently working on :octocat:
-- Learning Pwnable basics
+- Learning Reverse Engineering basics
 
 ### CTF :pirate_flag:
 - [x] [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) by Theori **7th**
