@@ -14,6 +14,7 @@
 - CTF Competitions
 
 ### Currently working on :octocat:
+- K-Shield Jr. 7기 보안사고 분석대응 과정
 - Learning Reverse Engineering basics
 
 ### CTF :pirate_flag:
@@ -40,6 +41,7 @@
 ### Seminars attended :man_teacher:
 - [x] [제2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
 - [x] [제23회 하계 해킹캠프](http://hackingcamp.org) by POC SECURITY
+- [x] [네트워크 해킹과 패킷 분석](https://www.onoffmix.com/event/242360) by 중부정보보호지원센터
 ----
 
 ### Contacts :email:
