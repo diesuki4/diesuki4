@@ -42,6 +42,7 @@
 - [x] [제2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
 - [x] [제23회 하계 해킹캠프](http://hackingcamp.org) by POC SECURITY
 - [x] [네트워크 해킹과 패킷 분석](https://www.onoffmix.com/event/242360) by 중부정보보호지원센터
+- [x] [누구나 쉽게 따라하는 웹 취약점 진단 기술](https://www.uipa.or.kr/webuser/usc_schedule/view.html?bd_id=7885) by 울산정보보호지원센터
 ----
 
 ### Contacts :email:
