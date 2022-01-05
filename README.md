@@ -9,12 +9,11 @@
 
 ### Interests :cupid:
 - Reverse Engineering
-- System Hacking
+- Malware Analysis
 - Game Hacking
 - CTF Competitions
 
 ### Currently working on :octocat:
-- K-Shield Jr. 7기 보안사고 분석대응 과정
 - Learning Reverse Engineering basics
 
 ### CTF :pirate_flag:
@@ -22,12 +21,13 @@
 - [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) by POC SECURITY **3rd** (Team. 구경만할게요)
 
 ### Courses completed :man_technologist:
-- [ ] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
+- [x] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
-- [x] [32비트 80x86 어셈블리 언어 프로그래밍](http://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696&ejkGb=KOR) by 양희재
-- [x] [리버싱 입문](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
+- [x] [32비트 80x86 어셈블리 언어 프로그래밍](https://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696) by 양희재
+- [x] [리버싱 입문](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
+- [ ] [리버싱 핵심 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966260522) by 이승원
 
 ### Lectures seen :desktop_computer:
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
