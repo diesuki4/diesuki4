@@ -45,8 +45,8 @@
 - [x] [제23회 하계 해킹캠프](http://hackingcamp.org) by POC SECURITY
 - [x] [네트워크 해킹과 패킷 분석](https://www.onoffmix.com/event/242360) by 중부정보보호지원센터
 - [x] [누구나 쉽게 따라하는 웹 취약점 진단 기술](https://www.uipa.or.kr/webuser/usc_schedule/view.html?bd_id=7885) by 울산정보보호지원센터
+- [x] [2022 KoVAC META Connect Beginning](https://onoffmix.com/event/252525) by NIPA
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab
-- [x] [2022 KoVAC META Connect Industry](https://onoffmix.com/event/255641) by 과학기술정보통신부
 - [x] [엔데믹 시대, 기업을 위한 메타버스](https://www.onoffmix.com/event/255688) by 오비스
 - [x] [ICTF2022 : 메타버스를 정의한다](https://onoffmix.com/event/255307) by 아이뉴스24
 ----
