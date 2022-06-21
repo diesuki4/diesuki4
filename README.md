@@ -22,6 +22,7 @@
 
 ### Courses completed :man_technologist:
 - [x] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
+- [ ] [메타버스 아카데미 1기 XR 과정](https://atic.ac/metaverse/index.do) by 과학기술정보통신부
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
