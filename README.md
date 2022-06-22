@@ -28,7 +28,6 @@
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
 - [x] [32비트 80x86 어셈블리 언어 프로그래밍](https://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696) by 양희재
 - [x] [리버싱 입문](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
-- [ ] [리버싱 핵심 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788966260522) by 이승원
 - [x] [인생 유니티 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931556377) by 이영호 외 6인
 - [ ] [인생 유니티 VR/AR 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931557015) by 이영호 외 6인
 
@@ -39,7 +38,6 @@
 - [x] [Youtube] [[게임 해킹과 보안] FPS 오픈소스 게임 핵 개발 (제작, 만들기)](https://www.youtube.com/watch?v=UUgGA24LbIQ&list=PLnIaYcDMsScxvz3yyClxLU9W6upAUyPzc&index=1) by 재즐보프
 - [x] [Guided Hacking] [GHB0 - Game Hacking Bible Introduction](https://guidedhacking.com/threads/ghb0-game-hacking-bible-introduction.14450) by Rake
 - [x] [Dreamhack] [System Exploitation Fundamental](https://dreamhack.io/lecture/curriculums/2) by Theori
-- [ ] [Inflearn] [윈도우 리버싱 (window reversing) 완벽 이해 - 레나 챌린지 풀이](https://www.inflearn.com/course/lena-2) by 보안프로젝트
 
 ### Seminars attended :man_teacher:
 - [x] [제2회 해킹하는 부엉이들](https://www.facebook.com/teamh4c/posts/4018887911539249) by TeamH4C
