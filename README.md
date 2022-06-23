@@ -29,7 +29,7 @@
 - [x] [32비트 80x86 어셈블리 언어 프로그래밍](https://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696) by 양희재
 - [x] [리버싱 입문](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
 - [x] [인생 유니티 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931556377) by 이영호 외 6인
-- [ ] [인생 유니티 VR/AR 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931557015) by 이영호 외 6인
+- [ ] [레트로의 유니티 게임 프로그래밍 에센스](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791162241516) by 이제민
 
 ### Lectures seen :desktop_computer:
 - [x] [Youtube] [어셈블리어](https://www.youtube.com/watch?v=Q8xCTztsRmw&list=PL1IheunyylbaYAzQv8bdu3hxq8YX5cKlY&index=1) by 스무디 TV
