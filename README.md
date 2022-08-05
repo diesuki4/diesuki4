@@ -3,8 +3,7 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diesuki4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Who am I :grey_question:
-- Korean
-- University student
+- College student
 - White-hat Hacker wannabe
 
 ### Interests :cupid:
