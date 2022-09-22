@@ -19,6 +19,9 @@
 - [x] [Dreamhack CTF Season 1 Round #7](https://dreamhack.io/ctf/8/) by Theori **7th**
 - [x] [제23회 해킹캠프 CTF](http://hackingcamp.org) by POC SECURITY **3rd** (Team. 구경만할게요)
 
+### Honors & Awards :trophy:
+- [x] [미드나잇 캠프 융합 프로젝트](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00416) at 메타버스 아카데미 1기 **2nd** (MyZoo)
+
 ### Courses completed :man_technologist:
 - [x] [K-Shield Jr. 7기 보안사고 분석대응 과정](http://kshieldjr.org/tlnt_mu01_002.do) by KISA
 - [ ] [메타버스 아카데미 1기 XR 과정](https://atic.ac/metaverse/index.do) by 과학기술정보통신부
