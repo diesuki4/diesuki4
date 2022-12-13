@@ -28,9 +28,9 @@
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
-- [x] [32비트 80x86 어셈블리 언어 프로그래밍](https://pod.kyobobook.co.kr/podBook/podBookDetailView.ink?barcode=1400000291696) by 양희재
-- [x] [리버싱 입문](https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788965401285) by 조성문
-- [x] [인생 유니티 교과서](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788931556377) by 이영호 외 6인
+- [x] [32비트 80x86 어셈블리 언어 프로그래밍](https://product.kyobobook.co.kr/detail/S000060604511) by 양희재
+- [x] [리버싱 입문](https://product.kyobobook.co.kr/detail/S000001019602) by 조성문
+- [x] [인생 유니티 교과서](https://product.kyobobook.co.kr/detail/S000000559927) by 이영호 외 6인
 - [ ] [이득우의 언리얼 C++ 게임 개발의 정석](https://product.kyobobook.co.kr/detail/S000001804736) by 이득우
 
 ### Lectures seen :desktop_computer:
