@@ -23,7 +23,7 @@
 - [x] [World of Tanks](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00344) at 메타버스 아카데미 1기
 - [x] [Squid Game (Roblox)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00533) at 메타버스 아카데미 1기
 
-### Game Development :gun:
+### Game Development :video_game:
 - [ ] [Not yet](#)
 
 ### Courses completed :man_technologist:
