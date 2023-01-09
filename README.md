@@ -1,4 +1,4 @@
-### Stats
+### Stats :muscle:
 [![My stats](https://github-readme-stats.vercel.app/api?username=diesuki4&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diesuki4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
