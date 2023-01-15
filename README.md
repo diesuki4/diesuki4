@@ -32,7 +32,6 @@
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
 - [x] [인생 유니티 교과서](https://product.kyobobook.co.kr/detail/S000000559927) by 이영호 외 6인
-- [ ] [이득우의 언리얼 C++ 게임 개발의 정석](https://product.kyobobook.co.kr/detail/S000001804736) by 이득우
 - [ ] [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://product.kyobobook.co.kr/detail/S000001834528) by 존 캐리 외 2인
 
 ### Lectures seen :desktop_computer:
