@@ -36,7 +36,7 @@
 
 ### Lectures seen :desktop_computer:
 - [ ] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 -)
-- [ ] [The Ultimate Git Course - with Applications in Unreal Engine](https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/) by Stephen Ulibarri (2023.01.18 -)
+- [ ] [The Ultimate Git Course - with Applications in Unreal Engine](https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/) by Stephen Ulibarri (2023.01.18 - 2023.01.22)
 
 ### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
