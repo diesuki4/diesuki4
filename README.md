@@ -35,7 +35,7 @@
 - [ ] [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257288899) by 존 캐리 외 2인 (2023.01.19 -)
 
 ### Lectures seen :desktop_computer:
-- [ ] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 -)
+- [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
 - [x] [The Ultimate Git Course - with Applications in Unreal Engine](https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/) by Stephen Ulibarri (2023.01.18 - 2023.01.22)
 - [ ] [Unreal Engine: Ultimate Survival Horror Course](https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/) by Aidan Perry (2023.01.23 -)
 
