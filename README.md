@@ -36,7 +36,9 @@
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
+- [x] [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) by University of Colorado System (2023.01.04 - 2023.01.18)
 - [x] [The Ultimate Git Course - with Applications in Unreal Engine](https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/) by Stephen Ulibarri (2023.01.18 - 2023.01.22)
+- [ ] [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) by University of Colorado System (2023.01.18 -)
 - [ ] [Unreal Engine: Ultimate Survival Horror Course](https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/) by Aidan Perry (2023.01.23 -)
 
 ### Seminars attended :man_teacher:
