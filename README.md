@@ -12,7 +12,7 @@
 - Game Development
 
 ### Currently working on :octocat:
-- Unreal Engine basics
+- Unreal Engine BP basics
 - DSA in C++
 
 ### Honors & Awards :trophy:
