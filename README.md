@@ -42,7 +42,8 @@
 - [x] [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) by University of Colorado System (2023.01.18 - 2023.02.18)
 - [x] [Unreal Engine: Ultimate Survival Horror Course](https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/) by Aidan Perry (2023.01.23 - 2023.02.24)
 - [ ] [Mathew Wadstein BP Tutorials](https://www.youtube.com/watch?v=mP8HJkccCzw&list=UULFOVfF7PfLbRdVEm0hONTrNQ) by Mathew Wadstein (2023.02.12 -)
-- [ ] [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) by University of Colorado System (2023.02.18 -)
+- [x] [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) by University of Colorado System (2023.02.18 - 2023.03.16)
+- [ ] [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) by University of Colorado System (2023.03.16 -)
 
 ### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
