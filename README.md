@@ -33,7 +33,7 @@
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
 - [x] [인생 유니티 교과서](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=239735810) by 이영호 외 6인 (2022.03.07 - 2022.05.06)
 - [ ] [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=257288899) by 존 캐리 외 2인 (2023.01.19 -)
-- [ ] [이득우의 언리얼 C++ 게임 개발의 정석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171000871) by 이득우 (2023.02.25 -)
+- [x] [이득우의 언리얼 C++ 게임 개발의 정석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171000871) by 이득우 (2023.02.25 - 2023.03.20)
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
