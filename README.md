@@ -39,15 +39,12 @@
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
-- [x] [Introduction to C++ Programming and Unreal](https://www.coursera.org/learn/introductionprogrammingunreal) by University of Colorado System (2023.01.04 - 2023.01.18)
+- [x] [C++ Programming for Unreal Game Development](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment) by University of Colorado System (2023.01.04 - 2023.04.08)
 - [x] [The Ultimate Git Course - with Applications in Unreal Engine](https://www.udemy.com/course/the-ultimate-git-course-with-applications-in-unreal-engine/) by Stephen Ulibarri (2023.01.18 - 2023.01.22)
-- [x] [More C++ Programming and Unreal](https://www.coursera.org/learn/more-programming-unreal) by University of Colorado System (2023.01.18 - 2023.02.18)
 - [x] [Unreal Engine: Ultimate Survival Horror Course](https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/) by Aidan Perry (2023.01.23 - 2023.02.24)
 - [ ] [Mathew Wadstein BP Tutorials](https://www.youtube.com/watch?v=mP8HJkccCzw&list=UULFOVfF7PfLbRdVEm0hONTrNQ) by Mathew Wadstein (2023.02.12 -)
-- [x] [C++ Class Development](https://www.coursera.org/learn/cpp-class-development) by University of Colorado System (2023.02.18 - 2023.03.16)
-- [x] [Intermediate Object-Oriented Programming for Unreal Games](https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games) by University of Colorado System (2023.03.16 - 2023.04.08)
 - [ ] [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/) by Stephen Ulibarri (2023.03.20 -)
-- [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) by University of Alberta (2023.04.09 -)
+- [ ] [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) by University of Alberta (2023.04.09 -)
 
 ### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
