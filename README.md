@@ -45,7 +45,7 @@
 - [ ] [Mathew Wadstein BP Tutorials](https://www.youtube.com/watch?v=mP8HJkccCzw&list=UULFOVfF7PfLbRdVEm0hONTrNQ) by Mathew Wadstein (2023.02.12 -)
 - [ ] [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/) by Stephen Ulibarri (2023.03.20 -)
 - [ ] [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) by University of Alberta (2023.04.09 -)
-- [ ] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 -)
+- [x] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 - 2023.04.28)
 
 ### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
