@@ -46,6 +46,7 @@
 - [ ] [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/) by Stephen Ulibarri (2023.03.20 -)
 - [ ] [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) by University of Alberta (2023.04.09 -)
 - [x] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 - 2023.04.28)
+- [ ] [Advanced Unreal Engine 5 Multiplayer Gameplay Programming](https://www.udemy.com/course/advanced-unreal-engine-5-multiplayer-gameplay-programming/) by Artem Chaika (2023.04.29 -)
 
 ### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
