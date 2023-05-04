@@ -12,7 +12,7 @@
 - Game Development
 
 ### Currently working on :octocat:
-- Unreal Engine Multiplayer basics
+- Unreal Engine GAS basics
 - Game Math basics
 - DSA in C++
 
