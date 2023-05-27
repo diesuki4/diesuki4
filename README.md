@@ -44,7 +44,7 @@
 - [x] [Unreal Engine: Ultimate Survival Horror Course](https://www.udemy.com/course/unreal-engine-ultimate-survival-horror-course/) by Aidan Perry (2023.01.23 - 2023.02.24)
 - [ ] [Mathew Wadstein BP Tutorials](https://www.youtube.com/watch?v=mP8HJkccCzw&list=UULFOVfF7PfLbRdVEm0hONTrNQ) by Mathew Wadstein (2023.02.12 -)
 - [ ] [Unreal Engine 5 C++ Multiplayer Shooter](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/) by Stephen Ulibarri (2023.03.20 -)
-- [ ] [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) by University of Alberta (2023.04.09 -)
+- [x] [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) by University of Alberta (2023.04.09 - 2023.05.27)
 - [x] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 - 2023.04.28)
 - [ ] [Advanced Unreal Engine 5 Multiplayer Gameplay Programming](https://www.udemy.com/course/advanced-unreal-engine-5-multiplayer-gameplay-programming/) by Artem Chaika (2023.04.29 -)
 
