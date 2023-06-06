@@ -25,7 +25,7 @@
 - [x] [Squid Game (Roblox)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00533) at 메타버스 아카데미 1기 (22.09)
 
 ### Game Development :video_game:
-- [ ] [Not yet](#)
+- [ ] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 -)
 
 ### Courses completed :man_technologist:
 - [x] [메타버스 아카데미 1기 XR 과정](https://atic.ac/metaverse/index.do) by 과학기술정보통신부 (22.05.09 - 22.12.16)
