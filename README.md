@@ -1,6 +1,8 @@
 ### Stats :muscle:
 [![My stats](https://github-readme-stats.vercel.app/api?username=diesuki4&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diesuki4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+###### Last updated: 2023.07.05
+![oCam_2023_07_05_16_55_59_654](https://github.com/diesuki4/diesuki4/assets/79886133/c570d98c-b290-4790-a5f5-868c21b8f7ab)
 
 ### Who am I :grey_question:
 - Gamê Client Programmer ωannabe！
