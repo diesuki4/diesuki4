@@ -1,7 +1,7 @@
 ### Stats :muscle:
 [![My stats](https://github-readme-stats.vercel.app/api?username=diesuki4&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diesuki4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-###### Last updated: 2023.09.08
+###### Last updated: 2023.09.10
 ![programmers](https://raw.githubusercontent.com/diesuki4/diesuki4/main/programmers.png)
 
 ### Who am I :grey_question:
@@ -19,18 +19,23 @@
 - DSA in C++
 
 ### Honors & Awards :trophy:
-- [x] [MyZoo](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00416) at 메타버스 아카데미 1기 미드나잇 캠프 융합 프로젝트 **2nd** (22.08.31 - 22.09.02)
+- [x] [고양이 메타버스 MyZoo](https://github.com/diesuki4/MTVSAC_MYZOO)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00416)--> at 메타버스 아카데미 1기 미드나잇 캠프 융합 프로젝트 **2nd** (22.08.31 - 22.09.02)
 
 ### Game Clone Projects :crossed_swords:
-- [x] [카트라이더 러쉬+](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00218) at 메타버스 아카데미 1기 (22.07)
-- [x] [World of Tanks](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00344) at 메타버스 아카데미 1기 (22.08)
-- [x] [Squid Game (Roblox)](https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00533) at 메타버스 아카데미 1기 (22.09)
+- [x] [카트라이더 러쉬+](https://github.com/diesuki4/Clone-KartRider_Rush_Plus)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00218)--> at 메타버스 아카데미 1기 (2022.06.28 - 2022.07.25)
+- [x] [World of Tanks](https://github.com/diesuki4/Clone-World_of_Tanks)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00344)--> at 메타버스 아카데미 1기 (2022.07.26 - 2022.08.29)
+- [x] [Squid Game (Roblox)](https://github.com/diesuki4/KBYJ_Squid_Game)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00533)--> at 메타버스 아카데미 1기 (2022.09.07 - 2022.10.02)
 
 ### Game Development :video_game:
+- [x] [온라인 PvP 오델로](https://github.com/diesuki4/Online_PvP_Othello) (2017.11.04 - 2018.01.05)
+- [x] [Run Piece](https://github.com/diesuki4/3DGPAPP_Run_Piece) (2022.06.15 - 2022.06.20)
 - [ ] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 -)
 
+### ETC :abacus:
+- [x] [공연 플랫폼 SMU:S](https://github.com/diesuki4/MTVSAC_SMUS) at 메타버스 아카데미 1기 (2022.10.17 - 2022.12.01)
+
 ### Courses completed :man_technologist:
-- [x] [메타버스 아카데미 1기 XR 과정](https://atic.ac/metaverse/index.do) by 과학기술정보통신부 (22.05.09 - 22.12.16)
+- [x] 메타버스 아카데미 1기 XR 과정 by 과학기술정보통신부 (22.05.09 - 22.12.16)
 
 ### Books read :books:
 - [x] Books on basic programming languages such as C/C++, Java, C#, Python, etc.
@@ -51,8 +56,8 @@
 - [x] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 - 2023.04.28)
 - [ ] [Advanced Unreal Engine 5 Multiplayer Gameplay Programming](https://www.udemy.com/course/advanced-unreal-engine-5-multiplayer-gameplay-programming/) by Artem Chaika (2023.04.29 -)
 
-### Seminars attended :man_teacher:
-- [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)
+<!--### Seminars attended :man_teacher:
+- [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)-->
 ----
 
 ### Contacts :email:
