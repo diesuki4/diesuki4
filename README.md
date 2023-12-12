@@ -46,6 +46,7 @@
 - [ ] [쉽게 배우는 운영체제](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=153419028) by 조성호 (2023.06.13 -)
 - [x] [윤성우의 열혈 C++ 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6960708) (재독) by 윤성우 (2023.12.05 - 2023.12.09)
 - [x] [윤성우의 열혈 C 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8016119) (재독) by 윤성우 (2023.12.09 - 2023.12.10)
+- [ ] [이펙티브 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58951705) by 스콧 마이어스 (2023.12.10 - )
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
