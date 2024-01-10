@@ -61,6 +61,7 @@
 - [x] [Unreal Engine 5 - Easily Translate and Localize your Game](https://www.udemy.com/course/ue5-translaitons-course/) by Gavin Eisenbeisz (2023.04.26 - 2023.04.28)
 - [ ] [Advanced Unreal Engine 5 Multiplayer Gameplay Programming](https://www.udemy.com/course/advanced-unreal-engine-5-multiplayer-gameplay-programming/) by Artem Chaika (2023.04.29 -)
 - [ ] [C++ Understanding: 고급 Advanced](https://www.youtube.com/watch?v=769ZUgW3Eo8&list=PLrrTotxaO6khn83BjtBN-1HMDc9MZ__yt&index=1) by Prof. 서진택 (2023.12.29 -)
+- [ ] [만화가 있는 C++](https://www.youtube.com/watch?v=1RWk7U8MF4M&list=PLrrTotxaO6kiFzuKfSHy3t-zOZNXSGGAE&index=1) by Prof. 서진택 (2024.01.10 -)
 
 <!--### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)-->
