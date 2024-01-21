@@ -29,7 +29,7 @@
 ### Game Development :video_game:
 - [x] [온라인 PvP 오델로](https://github.com/diesuki4/Online_PvP_Othello) (2017.11.04 - 2018.01.05)
 - [x] [Run Piece](https://github.com/diesuki4/3DGPAPP_Run_Piece) (2022.06.15 - 2022.06.20)
-- [ ] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 -)
+- [ ] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 - 개발 중단)
 
 ### ETC :abacus:
 - [x] [공연 플랫폼 SMU:S](https://github.com/diesuki4/MTVSAC_SMUS) at 메타버스 아카데미 1기 (2022.10.17 - 2022.12.01)
