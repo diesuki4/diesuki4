@@ -49,6 +49,7 @@
 - [ ] [이펙티브 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58951705) by 스콧 마이어스 (2023.12.10 - )
 - [x] [모던 C++ 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?itemid=42134317) by 서상원 외 3인 (2023.12.22 - 2023.12.24)
 - [ ] [이펙티브 모던 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=66541334) by 스콧 마이어스 (2023.12.25 - )
+- [ ] [헤드 퍼스트 객체 지향 분석 & 설계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=925897) by 브렛 맥래프린 외 2인 (2024.01.28 - )
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
