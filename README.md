@@ -63,6 +63,7 @@
 - [x] [C++ Understanding: 고급 Advanced](https://www.youtube.com/watch?v=769ZUgW3Eo8&list=PLrrTotxaO6khn83BjtBN-1HMDc9MZ__yt&index=1) by Prof. 서진택 (2023.12.29 - 2024.01.12)
 - [x] [만화가 있는 C++](https://www.youtube.com/watch?v=1RWk7U8MF4M&list=PLrrTotxaO6kiFzuKfSHy3t-zOZNXSGGAE&index=1) by Prof. 서진택 (2024.01.10 - 2024.01.11)
 - [x] [게임 수학의 이해](https://www.inflearn.com/course/게임-수학-이해) by Prof. 이득우 (2024.02.02 - 2024.02.02)
+- [x] [이득우의 꼭 배워야하는 게임 알고리즘](https://www.inflearn.com/course/게임-알고리즘) by Prof. 이득우 (2024.02.02 - 2024.02.14)
 
 <!--### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)-->
