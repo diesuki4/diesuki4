@@ -15,20 +15,21 @@
 ### Currently working on :octocat:
 - UNSEEN 2기 
 - Unreal Engine GAS
-- DSA in C++
+- Unreal Engine Dedicated Server
 
 ### Honors & Awards :trophy:
 - [x] [고양이 메타버스 MyZoo](https://github.com/diesuki4/MTVSAC_MYZOO)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00416)--> at 메타버스 아카데미 1기 미드나잇 캠프 융합 프로젝트 **2nd** (22.08.31 - 22.09.02)
+
+### Game Development :video_game:
+- [x] [온라인 PvP 오델로](https://github.com/diesuki4/Online_PvP_Othello) (2017.11.04 - 2018.01.05)
+- [x] [Run Piece](https://github.com/diesuki4/3DGPAPP_Run_Piece) (2022.06.15 - 2022.06.20)
+- [x] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 - 2023.09.16)
+- [ ] [Girlz Xtreme](https://github.com/futurelabunseen/C-KyungbinCho) (2024.03.17 - )
 
 ### Game Clone Projects :crossed_swords:
 - [x] [카트라이더 러쉬+](https://github.com/diesuki4/Clone-KartRider_Rush_Plus)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00218)--> at 메타버스 아카데미 1기 (2022.06.28 - 2022.07.25)
 - [x] [World of Tanks](https://github.com/diesuki4/Clone-World_of_Tanks)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00344)--> at 메타버스 아카데미 1기 (2022.07.26 - 2022.08.29)
 - [x] [Squid Game (Roblox)](https://github.com/diesuki4/KBYJ_Squid_Game)<!--(https://mtvs.kr/user/project/view?bbsCd=BBS_00007&bbscCd=BBSC_00533)--> at 메타버스 아카데미 1기 (2022.09.07 - 2022.10.02)
-
-### Game Development :video_game:
-- [x] [온라인 PvP 오델로](https://github.com/diesuki4/Online_PvP_Othello) (2017.11.04 - 2018.01.05)
-- [x] [Run Piece](https://github.com/diesuki4/3DGPAPP_Run_Piece) (2022.06.15 - 2022.06.20)
-- [x] [&lt;ARAG&gt;](https://github.com/diesuki4/ARAG) (2023.06.06 - 개발 중단)
 
 ### ETC :abacus:
 - [x] [공연 플랫폼 SMU:S](https://github.com/diesuki4/MTVSAC_SMUS) at 메타버스 아카데미 1기 (2022.10.17 - 2022.12.01)
@@ -48,7 +49,8 @@
 - [x] [윤성우의 열혈 C 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8016119) (재독) by 윤성우 (2023.12.09 - 2023.12.10)
 - [ ] [이펙티브 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=58951705) by 스콧 마이어스 (2023.12.10 -)
 - [x] [모던 C++ 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?itemid=42134317) by 서상원 외 3인 (2023.12.22 - 2023.12.24)
-- [ ] [이펙티브 모던 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=66541334) by 스콧 마이어스 (2023.12.25 -)
+- [x] [이펙티브 모던 C++](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=66541334) by 스콧 마이어스 (2023.12.25 - 2024.01.24)
+- [x] [개발자가 반드시 정복해야 할 객체 지향과 디자인 패턴](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=28301535) by 최범균 (2024.03.08 - 2024.03.12)
 
 ### Lectures seen :desktop_computer:
 - [x] [레벨 디자인, 기초부터 서류 프리패스 포트폴리오까지](https://coloso.co.kr/products/gamegraphic-bisk) by 레벨 디자이너 Bisk (2023.01.02 - 2023.01.27)
@@ -64,6 +66,8 @@
 - [x] [만화가 있는 C++](https://www.youtube.com/watch?v=1RWk7U8MF4M&list=PLrrTotxaO6kiFzuKfSHy3t-zOZNXSGGAE&index=1) by Prof. 서진택 (2024.01.10 - 2024.01.11)
 - [x] [게임 수학의 이해](https://www.inflearn.com/course/게임-수학-이해) by Prof. 이득우 (2024.02.02 - 2024.02.02)
 - [x] [이득우의 꼭 배워야하는 게임 알고리즘](https://www.inflearn.com/course/게임-알고리즘) by Prof. 이득우 (2024.02.02 - 2024.02.14)
+- [x] [이득우의 언리얼 프로그래밍 Part4 - 게임플레이 어빌리티 시스템](https://www.inflearn.com/course/이득우-언리얼-프로그래밍-part-4) by Prof. 이득우 (2024.03.01 - 2024.03.06)
+- [x] [이득우의 언리얼 프로그래밍 Part3 - 네트웍 멀티플레이 프레임웍의 이해](https://www.inflearn.com/course/이득우-언리얼-프로그래밍-part-3) by Prof. 이득우 (2024.03.31 - 2024.04.17)
 
 <!--### Seminars attended :man_teacher:
 - [x] [언리얼 엔진 콘텐츠 개발 단기 무료특강](https://onoffmix.com/event/252710) by ARA XR Lab (2022.03.26)-->
